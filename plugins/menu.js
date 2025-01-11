@@ -110,7 +110,6 @@ let madeMenu = ` *👋 Hello ${pushname}*
 ╭──────────●●►
  📰 *𝐍𝐄𝐖𝐒 𝐌𝐞𝐧𝐮*
   ───────
- .news (English)
  .derananews
  .sirasanews
  .hirunews
