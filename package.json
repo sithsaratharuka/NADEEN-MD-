@@ -4,7 +4,7 @@
   "description": "NADEEN-POORNA has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️ ",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name nadeen-md",
+    "start": "pm2 start index.js --deep-monitoring --attach --name nadeen-md-v2",
     "stop": "pm2 stop nadeen-md",
     "restart": "pm2 restart nadeen-md"
  },
@@ -35,10 +35,11 @@
     "moment-timezone": "latest",
     "hirunews-scrap": "^1.1.2",
     "google-tts-api":"2.0.2",
+    "mongoose":"8.9.1",
     "wa-sticker-formatter":"4.4.4",
     "ytdl-core": "^4.11.5",
-    "@dark-yasiya/yt-dl.js": "1.0.4",
-    "mongoose": "8.9.1",
-    "@dark-yasiya/news-scrap": "1.0.1"
+    "@dark-yasiya/yt-dl.js": "latest",
+    "@dark-yasiya/news-scrap": "1.0.1",
+    "@bochilteam/scraper": "latest"
   }
 }
