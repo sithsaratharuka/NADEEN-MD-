@@ -25,7 +25,7 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
  ## DEPLOYMENT METHODS
 
 <p align="center">
-<a href='https://gay-loise-nadeen-md-v2-session-id-3a7a350b.koyeb.app/' target="_blank"><img alt='GET YOUR SESSION ID' src='https://img.shields.io/badge/-Pair Code 01-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://gay-loise-nadeen-md-v2-session-id-3a7a350b.koyeb.app/' target="_blank"><img alt='GET YOUR SESSION ID' src='https://img.shields.io/badge/-Get Your Session Id-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 <p align="center">
 <a href='https://sunny-dorine-nadeen-md-v2-b14d00b7.koyeb.app/pair' target="_blank"><img alt='Pair Code 02' src='https://img.shields.io/badge/-Pair Code 02-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
