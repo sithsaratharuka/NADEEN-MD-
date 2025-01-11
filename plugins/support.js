@@ -1,1 +1,51 @@
-const _0x5706b5=_0x593f;function _0x5627(){const _0x271989=['log','12KLaEIZ','15573503HZGcXD','511XQsYoL','110115zPrUvI','4232spCtfB','../command','18KGrapD','36fBmXHm','184362rkuNbc','50QrYTYz','391284zbTFJi','To\x20get\x20the\x20bot\x20informations.','294534gtJotK','_0xb13cec','961680mYMkFW','support'];_0x5627=function(){return _0x271989;};return _0x5627();}(function(_0x35ad20,_0x5f12bf){const _0x236efd=_0x593f,_0xc47d68=_0x35ad20();while(!![]){try{const _0x58a536=-parseInt(_0x236efd(0x13a))/0x1+-parseInt(_0x236efd(0x138))/0x2*(parseInt(_0x236efd(0x136))/0x3)+parseInt(_0x236efd(0x137))/0x4*(parseInt(_0x236efd(0x133))/0x5)+-parseInt(_0x236efd(0x12d))/0x6+-parseInt(_0x236efd(0x132))/0x7*(parseInt(_0x236efd(0x134))/0x8)+parseInt(_0x236efd(0x12b))/0x9*(-parseInt(_0x236efd(0x139))/0xa)+parseInt(_0x236efd(0x131))/0xb*(parseInt(_0x236efd(0x130))/0xc);if(_0x58a536===_0x5f12bf)break;else _0xc47d68['push'](_0xc47d68['shift']());}catch(_0x243d87){_0xc47d68['push'](_0xc47d68['shift']());}}}(_0x5627,0x4af8b));function _0x593f(_0x51909b,_0x24305a){const _0x5627ff=_0x5627();return _0x593f=function(_0x593ff6,_0x372cfc){_0x593ff6=_0x593ff6-0x12b;let _0x290df8=_0x5627ff[_0x593ff6];return _0x290df8;},_0x593f(_0x51909b,_0x24305a);}const config=require('../config'),{_0x4488c4:cmd,_0x14d9bf:commands}=require(_0x5706b5(0x135));cmd({'pattern':_0x5706b5(0x12e),'_0x358723':_0x5706b5(0x13b),'_0x14c700':'⛓','category':'main','filename':__filename},async(_0x31bd88,_0x1cf542,_0x457883,{from:_0x4a654e,_0x1cd210:_0x5612cc,body:_0x559870,_0x563dc4:_0x534a89,command:_0x32c6fa,_0x34dd09:_0x346a15,_0x4ba7e7:_0x2581b4,_0x7f06c1:_0x2b8abe,sender:_0x4db1fa,_0x4b7194:_0x30608b,_0x2db919:_0x2f8a23,_0x283304:_0x109af1,_0x5c226b:_0x36d2a8,_0x342262:_0x2a52f7,_0x23dcf9:_0x13e5ef,_0x4bb4c3:_0x3eef04,_0x591150:_0x34c673,participants:_0x4d1809,_0x524d30:_0x445664,_0x308590:_0x4eba3d,_0x23a085:_0x53ea51,_0x4b8ece:_0x463952})=>{const _0x3bbb77=_0x5706b5;try{let _0x3fafa4='\x20*👋\x20Hello\x20'+_0x36d2a8+'*\x0a\x0a*🎃NADEEN-MD\x20Support\x20Channels🎃*\x0a\x0a*🔰Youtube\x20Channel\x20Link:*\x20https://www.youtube.com/@NADEEN-MD\x0a\x0a*⚜Whatsapp\x20Channel\x20Link:*\x20https://whatsapp.com/channel/0029VagN2qW3gvWUBhsjcn3I\x0a\x0a*👾Contact\x20Bot\x20Owner:*\x200711451319\x0a\x0a*👾Cantact\x20Bot\x20Co-Owner\x20:*\x200775383340\x0a\x0a*©ɴᴀᴅᴇᴇɴ-ᴍᴅ\x20ᴍᴀᴅᴇ\x20ʙʏ\x20ɴᴀᴅᴇᴇɴ\x20ᴘᴏᴏʀɴᴀ*';return await _0x31bd88[_0x3bbb77(0x12c)](_0x4a654e,{'_0x108bd3':{'url':'https://i.imgur.com/rRdKMrE.png'},'caption':_0x3fafa4},{'_0x1cd210':_0x1cf542});}catch(_0xa526e7){console[_0x3bbb77(0x12f)](_0xa526e7),_0x463952(''+_0xa526e7);}});
+const config = require('../config')
+
+const {cmd , commands} = require('../command')
+
+
+
+cmd({
+
+    pattern: "support",
+
+    desc: "To get the bot informations.",
+
+    react: "⛓",
+
+    category: "main",
+
+    filename: __filename
+
+},
+
+async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
+
+try{
+
+
+
+let about = ` *👋 Hello ${pushname}*
+
+*🎃NADEEN-MD Support Channels🎃*
+
+*🔰Youtube Channel Link:* https://www.youtube.com/@NADEEN-MD
+
+*⚜Whatsapp Channel Link:* https://whatsapp.com/channel/0029VagN2qW3gvWUBhsjcn3I
+
+*👾Contact Bot Owner:* 0711451319
+
+*👾Cantact Bot Co-Owner :* 0775383340
+
+*©ɴᴀᴅᴇᴇɴ-ᴍᴅ ᴍᴀᴅᴇ ʙʏ ɴᴀᴅᴇᴇɴ ᴘᴏᴏʀɴᴀ*`
+
+return await conn.sendMessage(from,{image: {url:`https://i.imgur.com/rRdKMrE.png`},caption:about},{quoted: mek})
+
+}catch(e){
+
+console.log(e)
+
+reply(`${e}`)
+
+}
+
+})
