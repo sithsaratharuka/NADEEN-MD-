@@ -1,1 +1,44 @@
-const _0x569e3b=_0x54c3;function _0x4087(){const _0x2ec027=['_0x4245ca','\x0a⏱\x20*RUNTIME\x20:*\x20','203FMNAJR','\x0a👀\x20*VIEWS\x20:*\x20','396xCwMTe','1182684AznCDW','\x0a🤵\x20*AUTHOR\x20:*\x20','152104oUyiSW','result','7475gyKWPA','song2','Download\x20Youtube\x20song','©𝗡𝗔𝗗𝗘𝗘𝗡-𝗠𝗗','3882hteaFL','448YrpDhD','url','timestamp','9dTHmhI','audio/mpeg','🎶\x20NADEEN-MD\x20SONG\x20DOWNLOADER\x20🎶\x0a\x0a\x0a🎵\x20*TITLE\x20:*\x20','download','2769741vJhQHY','log','332530gzZfTn','results','\x0a🖇️\x20*URL\x20:*\x20','Please\x20give\x20me\x20Yt\x20url\x20or\x20Name','.song\x20<\x20Yt\x20url\x20or\x20Name\x20>','ytmp3','Results\x20is\x20not\x20found\x20!','61958Itxlgv','*▫\x20NADEEN-MD*','@dark-yasiya/yt-dl.js','\x0a\x0a>\x20*▫\x20NADEEN-MD*\x0a','../command','7894omVQGz','length','_0x532b82','ytsong','_0x40c02c','319XSDSTD','_0x4e1deb'];_0x4087=function(){return _0x2ec027;};return _0x4087();}function _0x54c3(_0x436222,_0x3a33de){const _0x40870a=_0x4087();return _0x54c3=function(_0x54c368,_0x264ec3){_0x54c368=_0x54c368-0x1b0;let _0x4014c0=_0x40870a[_0x54c368];return _0x4014c0;},_0x54c3(_0x436222,_0x3a33de);}(function(_0x2be737,_0x3c3211){const _0x22edd5=_0x54c3,_0x298d33=_0x2be737();while(!![]){try{const _0x553c23=-parseInt(_0x22edd5(0x1b4))/0x1*(-parseInt(_0x22edd5(0x1d5))/0x2)+parseInt(_0x22edd5(0x1c3))/0x3*(-parseInt(_0x22edd5(0x1b7))/0x4)+parseInt(_0x22edd5(0x1bb))/0x5*(parseInt(_0x22edd5(0x1bf))/0x6)+parseInt(_0x22edd5(0x1c0))/0x7*(parseInt(_0x22edd5(0x1b9))/0x8)+-parseInt(_0x22edd5(0x1c7))/0x9+-parseInt(_0x22edd5(0x1c9))/0xa*(parseInt(_0x22edd5(0x1b0))/0xb)+parseInt(_0x22edd5(0x1b6))/0xc*(-parseInt(_0x22edd5(0x1d0))/0xd);if(_0x553c23===_0x3c3211)break;else _0x298d33['push'](_0x298d33['shift']());}catch(_0x1f5f4d){_0x298d33['push'](_0x298d33['shift']());}}}(_0x4087,0xa3521));const config=require('../config'),{_0x2d2cb9:cmd}=require(_0x569e3b(0x1d4)),{_0x3b0ee8:ytsearch,ytmp3:ytmp3,_0x35469a:ytmp4}=require(_0x569e3b(0x1d2));cmd({'pattern':_0x569e3b(0x1bc),'_0x459906':[_0x569e3b(0x1ce),_0x569e3b(0x1d8)],'_0x49a648':'🎶','_0x52184d':_0x569e3b(0x1bd),'category':_0x569e3b(0x1c6),'_0x3d1a23':_0x569e3b(0x1cd),'filename':__filename},async(_0x3ca7ca,_0x505c0c,_0x3a4cfc,{from:_0x2ef391,prefix:_0x18a90b,_0x46e973:_0x4d9823,_0x325478:_0x1be2dc,_0x149404:_0x33ad9d})=>{const _0x38574a=_0x569e3b;try{if(!_0x1be2dc)return await _0x33ad9d(_0x38574a(0x1cc));const _0x13cd3=await ytsearch(_0x1be2dc);if(_0x13cd3['results'][_0x38574a(0x1d6)]<0x1)return _0x33ad9d(_0x38574a(0x1cf));let _0x3ec2fe=_0x13cd3[_0x38574a(0x1ca)][0x0];const _0xc51eb8=await ytmp3(_0x3ec2fe['url']);let _0x826041=_0x38574a(0x1c5)+_0x3ec2fe['title']+_0x38574a(0x1b8)+_0x3ec2fe[_0x38574a(0x1b2)]['name']+_0x38574a(0x1b3)+_0x3ec2fe[_0x38574a(0x1c2)]+_0x38574a(0x1b5)+_0x3ec2fe['views']+_0x38574a(0x1cb)+_0x3ec2fe['url']+_0x38574a(0x1d3);await _0x3ca7ca[_0x38574a(0x1d7)](_0x2ef391,{'_0x4e1deb':{'url':_0x3ec2fe[_0x38574a(0x1d9)]||_0x3ec2fe[_0x38574a(0x1b1)]||''},'caption':_0x38574a(0x1d1)},{'_0x46e973':_0x505c0c}),await _0x3ca7ca[_0x38574a(0x1d7)](_0x2ef391,{'_0x3cde0a':{'url':_0xc51eb8[_0x38574a(0x1c6)][_0x38574a(0x1c1)]},'_0x261c4e':_0x38574a(0x1c4)},{'_0x46e973':_0x505c0c}),await _0x3ca7ca[_0x38574a(0x1d7)](_0x2ef391,{'document':{'url':_0xc51eb8[_0x38574a(0x1c6)][_0x38574a(0x1c1)]},'_0x261c4e':_0x38574a(0x1c4),'fileName':_0xc51eb8[_0x38574a(0x1ba)]['title']+'.mp3','caption':_0x38574a(0x1be)},{'_0x46e973':_0x505c0c});}catch(_0x216a2d){console[_0x38574a(0x1c8)](_0x216a2d),_0x33ad9d(_0x216a2d);}});
+const config = require('../config');
+const { cmd } = require('../command');
+const { ytsearch, ytmp3, ytmp4 } = require('@dark-yasiya/yt-dl.js'); 
+
+
+cmd({
+    pattern: "song2",
+    alias: ["play","ytsong"],
+    react: "🎶",
+    desc: "Download Youtube song",
+    category: "download",
+    use: '.song < Yt url or Name >',
+    filename: __filename
+},
+async(conn, mek, m,{ from, prefix, quoted, q, reply }) => {
+try{
+
+if(!q) return await reply("Please give me Yt url or Name")
+	
+const yt = await ytsearch(q);
+if(yt.results.length < 1) return reply("Results is not found !")
+
+let yts = yt.results[0]  
+const ytdl = await ytmp3(yts.url)		
+let ytmsg = `🎶 NADEEN-MD SONG DOWNLOADER 🎶
+
+
+🎵 *TITLE :* ${yts.title}
+🤵 *AUTHOR :* ${yts.author.name}
+⏱ *RUNTIME :* ${yts.timestamp}
+👀 *VIEWS :* ${yts.views}
+🖇️ *URL :* ${yts.url}
+
+> *▫ NADEEN-MD*
+`
+await conn.sendMessage(from, { image: { url: yts.thumbnail || yts.image || '' }, caption: ytmsg }, { quoted: mek });
+await conn.sendMessage(from, { audio: { url: ytdl.download.url }, mimetype: "audio/mpeg" }, { quoted: mek })
+await conn.sendMessage(from, { document: { url: ytdl.download.url }, mimetype: "audio/mpeg", fileName: ytdl.result.title + '.mp3', caption: `*NADEEN-MD*` }, { quoted: mek })
+
+} catch (e) {
+console.log(e)
+reply(e)
+}}
+)
