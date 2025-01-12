@@ -43,7 +43,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const vv = await conn.sendMessage(from, {
             image: { url: 'https://files.catbox.moe/7exz93.png' },
           caption: `╭━─≪ ✠ || ✠ ≫─━╮
-▒      🛠 *NADEEN-MD BOT SETTINGS* 🛠
+▒     🛠 *NADEEN-MD BOT SETTINGS* 🛠
 ░█︻┻ ------------| ︻┳═─-
 ▒▓💥 *Work Mode* || *${work}*
 ░💥 *Auto Voice* || *${autoVoice}*
@@ -70,9 +70,9 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 █ *┈━═☆[4] AUTO BIO ☆═━┈* ⚙
     4.1 || *Auto Bio On*
-    4.2 ||*Auto Bio Off*
+    4.2 || *Auto Bio Off*
 
-█ *┈━═☆[5] AUTO NEWS SERVICE ☆═━┈* ⚙
+█ *┈━═☆[5] AUTO NEWS ☆═━┈* ⚙
      5.1 || *Activate News Service*
      5.2 || *Deactivate News Service*
 
@@ -80,10 +80,10 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
      6.1 || *Activate Auto Typing*
      6.2 || *Deactivate Auto Typing*
 
-█ *┈━═☆[7] AUTO COMMAND READ ☆═━┈* ⚙
+█ *┈━☆[7] AUTO COMMAND READ ☆━┈*⚙
      7.1 || *Activate Auto Command Read*
      7.2 || *Deactivate Auto Command Read*
-╰━─≪ ✠ || ✠ ≫─━╯
+╰━─≪ ✠ |||||||||||| ✠ ≫─━╯
 
 > *ɴᴀᴅᴇᴇɴ-ᴍᴅ ʙʏ ɴᴀᴅᴇᴇɴ ᴘᴏᴏʀɴᴀ*
 `
