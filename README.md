@@ -19,7 +19,9 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
   </p>
 
 ## 🇱🇰 ***New bot, latest version 🎉 [new reposity](https://github.com/Nadeenpoorna-max/NADEEN-MD-V2/)***
-
+<p align="center">
+<a href='https://www.youtube.com/watch?v=S-YOOsTvteE&t=17s' target="_blank"><img alt='GET YOUR SESSION ID' src='https://img.shields.io/badge/-Watch Free Deploy-darkred?style=for-the-badge&logo=Youtube&logoColor=white'/< width=115 height=28/p></a>
+  
 <p align="center"><img src="https://profile-counter.glitch.me/{Nadeenpoorna-max}/count.svg" alt="Nadeenpoorna-max :: Visitor's Count" /></p>
 
  ## DEPLOYMENT METHODS
