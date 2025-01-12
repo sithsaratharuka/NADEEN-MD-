@@ -21,7 +21,7 @@ const yt = await ytsearch(q);
 if(yt.results.length < 1) return reply("Results is not found !")
 
 let yts = yt.results[0]  
-const ytdl = await ytmp3(yts.url)		
+const ytdl = await ytmp4(yts.url)		
 let ytmsg = `🎥 NADEEN-MD VIDEO DOWNLOADER 🎥
 
 
