@@ -1,5 +1,5 @@
 const { updateEnv, readEnv } = require('../lib/database');
-const { cmd, commands } = require('../command');
+const { cmd } = require('../command');
 const EnvVar = require('../lib/mongodbenv');
 
 cmd({
