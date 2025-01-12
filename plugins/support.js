@@ -1,1 +1,51 @@
-const _0x1b18f0=_0x3f3e;(function(_0x41e758,_0x1b8c51){const _0x31b28d=_0x3f3e,_0x5c807e=_0x41e758();while(!![]){try{const _0x34b680=-parseInt(_0x31b28d(0x168))/0x1+-parseInt(_0x31b28d(0x167))/0x2*(-parseInt(_0x31b28d(0x166))/0x3)+-parseInt(_0x31b28d(0x162))/0x4+parseInt(_0x31b28d(0x16e))/0x5+parseInt(_0x31b28d(0x16c))/0x6*(parseInt(_0x31b28d(0x164))/0x7)+parseInt(_0x31b28d(0x174))/0x8*(parseInt(_0x31b28d(0x172))/0x9)+-parseInt(_0x31b28d(0x16b))/0xa*(parseInt(_0x31b28d(0x171))/0xb);if(_0x34b680===_0x1b8c51)break;else _0x5c807e['push'](_0x5c807e['shift']());}catch(_0x876817){_0x5c807e['push'](_0x5c807e['shift']());}}}(_0x886f,0x94de9));function _0x3f3e(_0xa42d2f,_0x4517f1){const _0x886fa1=_0x886f();return _0x3f3e=function(_0x3f3ec3,_0x82c052){_0x3f3ec3=_0x3f3ec3-0x161;let _0x317415=_0x886fa1[_0x3f3ec3];return _0x317415;},_0x3f3e(_0xa42d2f,_0x4517f1);}const config=require(_0x1b18f0(0x173)),{_0x56da28:cmd,_0x52f4bc:commands}=require(_0x1b18f0(0x16d));cmd({'pattern':_0x1b18f0(0x170),'_0x12cdf9':_0x1b18f0(0x169),'_0x3fb293':'⛓','category':_0x1b18f0(0x16f),'filename':__filename},async(_0x2f3a5a,_0x491805,_0x53b96a,{from:_0x42b557,_0x4c4fdf:_0x371a55,body:_0x127d3f,_0x53f160:_0x19c870,command:_0x359705,_0x213193:_0x1fb145,_0x64ddb7:_0x3c7529,_0x770af4:_0x382e47,sender:_0x555634,_0x446c9b:_0x4651a7,_0x4efd44:_0x4367e5,_0x576278:_0x4ae59d,_0x509227:_0x1cfba0,_0x2f310d:_0x4eb54d,_0x2fa3b2:_0x799891,_0x5ca580:_0x1a7953,_0x101cdd:_0x5ac45b,participants:_0x198a14,_0x50ef2d:_0x4a3e52,_0x329e50:_0x1a0512,_0x1e1054:_0x25115f,_0x330fa2:_0x138c15})=>{const _0x5dd65c=_0x1b18f0;try{let _0x42f715=_0x5dd65c(0x165)+_0x1cfba0+_0x5dd65c(0x163);return await _0x2f3a5a[_0x5dd65c(0x16a)](_0x42b557,{'_0x3cf2e1':{'url':'https://i.imgur.com/rRdKMrE.png'},'caption':_0x42f715},{'_0x4c4fdf':_0x491805});}catch(_0x42cadd){console[_0x5dd65c(0x161)](_0x42cadd),_0x138c15(''+_0x42cadd);}});function _0x886f(){const _0x11adb2=['main','support','9938687AyJRzX','27qokiSE','../config','2515120FYJteK','log','838464GQaORm','*\x0a\x0a*🎃NADEEN-MD\x20Support\x20Channels🎃*\x0a\x0a*🔰Youtube\x20Channel\x20Link:*\x20https://www.youtube.com/@NADEEN-MD\x0a\x0a*⚜Whatsapp\x20Channel\x20Link:*\x20https://whatsapp.com/channel/0029VagN2qW3gvWUBhsjcn3I\x0a\x0a*👾Contact\x20Bot\x20Owner:*\x200711451319\x0a\x0a*👾Cantact\x20Bot\x20Co-Owner\x20:*\x200775383340\x0a\x0a*©ɴᴀᴅᴇᴇɴ-ᴍᴅ\x20ᴍᴀᴅᴇ\x20ʙʏ\x20ɴᴀᴅᴇᴇɴ\x20ᴘᴏᴏʀɴᴀ*','7KQDlxc','\x20*👋\x20Hello\x20','66HNywbD','75934FnaGgJ','320187jXjZoG','To\x20get\x20the\x20bot\x20informations.','_0x50912e','10VKswfn','674274xXUWPG','../command','761330EBeVui'];_0x886f=function(){return _0x11adb2;};return _0x886f();}
+const config = require('../config')
+
+const {cmd , commands} = require('../command')
+
+
+
+cmd({
+
+    pattern: "support",
+
+    desc: "To get the bot informations.",
+
+    react: "⛓",
+
+    category: "main",
+
+    filename: __filename
+
+},
+
+async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
+
+try{
+
+
+
+let about = ` *👋 Hello ${pushname}*
+
+*🎃NADEEN-MD Support Channels🎃*
+
+*🔰Youtube Channel Link:* https://www.youtube.com/@NADEEN-MD
+
+*⚜Whatsapp Channel Link:* https://whatsapp.com/channel/0029VagN2qW3gvWUBhsjcn3I
+
+*👾Contact Bot Owner:* 0711451319
+
+*👾Cantact Bot Co-Owner :* 0775383340
+
+*©ɴᴀᴅᴇᴇɴ-ᴍᴅ ᴍᴀᴅᴇ ʙʏ ɴᴀᴅᴇᴇɴ ᴘᴏᴏʀɴᴀ*`
+
+return await conn.sendMessage(from,{image: {url:`https://i.imgur.com/rRdKMrE.png`},caption:about},{quoted: mek})
+
+}catch(e){
+
+console.log(e)
+
+reply(`${e}`)
+
+}
+
+})
