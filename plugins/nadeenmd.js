@@ -1,1 +1,43 @@
-const _0x179d5d=_0x2f94;(function(_0x2d4ed5,_0x1700b4){const _0xdca4fa=_0x2f94,_0x127dd2=_0x2d4ed5();while(!![]){try{const _0x190370=parseInt(_0xdca4fa(0x16d))/0x1+-parseInt(_0xdca4fa(0x179))/0x2+parseInt(_0xdca4fa(0x175))/0x3*(parseInt(_0xdca4fa(0x177))/0x4)+parseInt(_0xdca4fa(0x170))/0x5*(-parseInt(_0xdca4fa(0x176))/0x6)+parseInt(_0xdca4fa(0x16b))/0x7*(-parseInt(_0xdca4fa(0x174))/0x8)+-parseInt(_0xdca4fa(0x171))/0x9*(-parseInt(_0xdca4fa(0x172))/0xa)+parseInt(_0xdca4fa(0x16f))/0xb;if(_0x190370===_0x1700b4)break;else _0x127dd2['push'](_0x127dd2['shift']());}catch(_0x265b6d){_0x127dd2['push'](_0x127dd2['shift']());}}}(_0x2bcd,0xc0ec6));function _0x2bcd(){const _0x54c70b=['3418723GjboZI','log','803229RUAKpy','../command','4537500tpJZYl','3252730cKZMSk','4363767oVYmsI','20VIZgCS','nadeen','8mgaLVp','5688FfSArt','12BuvIdU','1804jExCji','https://files.catbox.moe/2nmi9q.png','921712aItUGn','*\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20𝐈\x20𝐀𝐌\x20𝗡𝗔𝗗𝗘𝗘𝗡-𝗠𝗗\x20𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏\x20𝐁𝐎𝐓\x0a\x20\x0a⚡𝐂𝐑𝐄𝐀𝐓𝐄𝐃\x20𝐁𝐘\x20𝗡𝗔𝗗𝗘𝗘𝗡\x20𝗣𝗢𝗢𝗥𝗡𝗔\x20(𝗗𝗔𝗥𝗞\x20𝗖𝗬𝗕𝗘𝗥\x20𝗠𝗔𝗧𝗥𝗜𝗫)..\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a*☄ɢɪᴛʜᴜʙ\x20:*\x20https://github.com/Nadeenpoorna-max/NADEEN-MD-V2\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a*🌠ʏᴏᴜᴛᴜʙᴇ\x20:*\x20https://www.youtube.com/@NADEEN-MD\x0a\x20\x20\x20\x20\x20\x20\x0a*☄ᴡʜᴀᴛꜱᴀᴘᴘ\x20ᴄʜᴀɴɴᴇʟ\x20:*\x20https://whatsapp.com/channel/0029VagN2qW3gvWUBhsjcn3I\x0a\x0a*👨‍💻ɴᴀᴅᴇᴇɴ-ᴍᴅ\x20ᴍᴀᴅᴇ\x20ʙʏ\x20ɴᴀᴅᴇᴇɴ\x20ᴘᴏᴏʀɴᴀ👨‍💻*','../config'];_0x2bcd=function(){return _0x54c70b;};return _0x2bcd();}function _0x2f94(_0x32f3ef,_0x1b6bfe){const _0x2bcde6=_0x2bcd();return _0x2f94=function(_0x2f94b6,_0x213f0b){_0x2f94b6=_0x2f94b6-0x169;let _0xdc7952=_0x2bcde6[_0x2f94b6];return _0xdc7952;},_0x2f94(_0x32f3ef,_0x1b6bfe);}const config=require(_0x179d5d(0x16a)),{_0x509eba:cmd,_0x56c8fd:commands}=require(_0x179d5d(0x16e));cmd({'pattern':_0x179d5d(0x173),'_0x185486':'To\x20get\x20the\x20bot\x20informations.','_0x1552f0':'🔰','category':'main','filename':__filename},async(_0x1ff255,_0xc91d84,_0x49cd41,{from:_0x1d67ea,_0x1422f5:_0x8ea9a8,body:_0x5b3386,_0x428bfe:_0x3eaf1b,command:_0x2aaf83,_0x542991:_0x5c20c6,_0x3f2858:_0x510852,_0x45a910:_0x3150e1,sender:_0x208c66,_0x51450b:_0x595091,_0xfcc4ba:_0x225e11,_0x5f42d4:_0x1921f4,_0x136e95:_0x42a62b,_0x5a48f9:_0x2cfc30,_0x273231:_0x4d7754,_0x2a650a:_0x2ada56,_0x2003de:_0x272a03,participants:_0x2741e4,_0x52af74:_0x2721d9,_0x56ad54:_0x5bbc4e,_0x47203:_0x5a74a4,_0x57aed9:_0x3f6a67})=>{const _0x31da4e=_0x179d5d;try{let _0x19b897='\x20*👋\x20Hello\x20'+_0x42a62b+_0x31da4e(0x169);return await _0x1ff255['_0x42b25c'](_0x1d67ea,{'_0x5011e7':{'url':_0x31da4e(0x178)},'caption':_0x19b897},{'_0x1422f5':_0xc91d84});}catch(_0x5bb57b){console[_0x31da4e(0x16c)](_0x5bb57b),_0x3f6a67(''+_0x5bb57b);}});
+const config = require('../config')
+
+const {cmd , commands} = require('../command')
+
+
+
+cmd({
+
+    pattern: "bot",
+    desc: "To get the bot informations.",
+    react: "🔰",
+    category: "main",
+    filename: __filename
+
+},
+
+async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
+
+try{
+
+
+
+let about = ` *👋 Hello ${pushname}*
+                    
+ 𝐈 𝐀𝐌 𝗡𝗔𝗗𝗘𝗘𝗡-𝗠𝗗 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓
+ 
+⚡𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝗡𝗔𝗗𝗘𝗘𝗡 𝗣𝗢𝗢𝗥𝗡𝗔 (𝗗𝗔𝗥𝗞 𝗖𝗬𝗕𝗘𝗥 𝗠𝗔𝗧𝗥𝗜𝗫)..
+           
+*☄ɢɪᴛʜᴜʙ :* https://github.com/Nadeenpoorna-max/NADEEN-MD -V2  
+             
+*🌠ʏᴏᴜᴛᴜʙᴇ :* https://www.youtube.com/@DINKA_FILMS
+      
+*☄ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ :* https://whatsapp.com/channel/0029VagN2qW3gvWUBhsjcn3I
+
+*👨‍💻ɴᴀᴅᴇᴇɴ-ᴍᴅ ᴍᴀᴅᴇ ʙʏ ɴᴀᴅᴇᴇɴ ᴘᴏᴏʀɴᴀ👨‍💻*`
+
+return await conn.sendMessage(from,{image: {url:`https://files.catbox.moe/2nmi9q.png`},caption:about},{quoted: mek})
+}catch(e){
+console.log(e)
+reply(`${e}`)
+
+}
+})
