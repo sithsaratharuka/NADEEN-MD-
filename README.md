@@ -49,7 +49,7 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
 ### CONTRIBUTIONS 
 > Contributions to Nadeen-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
-### *FREE DEPLOY*
+<h2 align="center">FREE DEPLOY</h2>
 <p align="center">
 <a href='https://www.youtube.com/watch?v=S-YOOsTvteE&t=17s' target="_blank"><img alt='GET free deploy' src='https://img.shields.io/badge/-Watch Free Deploy-darkred?style=for-the-badge&logo=Youtube&logoColor=white'/< width=115 height=28/p></a>
 
