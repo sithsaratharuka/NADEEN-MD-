@@ -268,7 +268,7 @@ if(config.AUTO_TYPING === 'true'){await conn.sendPresenceUpdate('composing', fro
     //  console.log('Message received and saved:', messageId);
     }
     
-    const delfrom = config.DELETEMSGSENDTO !=='' ? config.DELETEMSGSENDTO + '@s.whatsapp.net': from
+    const delfrom = config.SUDO !=='' ? config.SUDO + '@s.whatsapp.net': from
     function handleMessageRevocation(revocationMessage) {
     //const remoteJid = revocationMessage.message.protocolMessage.key.remoteJid;
      //const messageId = revocationMessage.message.protocolMessage.key.id;
