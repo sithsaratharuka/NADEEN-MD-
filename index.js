@@ -93,7 +93,7 @@ let up = `🚀 *_NADEEN-MD Connected Successfully!_* ✅
 
 *👨‍💻ɴᴀᴅᴇᴇɴ-ᴍᴅ ᴍᴀᴅᴇ ʙʏ ɴᴀᴅᴇᴇɴ ᴘᴏᴏʀɴᴀ👨‍💻* `;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/7exz93.png` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/7exz93.png` }, caption: up,
   contextInfo: {
       mentionedJid: ['94711451319@s.whatsapp.net'], // specify mentioned JID(s) if any
       groupMentions: [],
@@ -103,7 +103,6 @@ conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files
           newsletterJid: '120363304606757133@newsletter',
           newsletterName: "𝐍𝐀𝐃𝐄𝐄𝐍-𝐌𝐃",
           serverMessageId: 999
-
      }
   }
 });
