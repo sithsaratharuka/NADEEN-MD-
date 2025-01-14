@@ -19,8 +19,7 @@ const { sms,downloadMediaMessage } = require('./lib/msg')
 const axios = require('axios')
 const { File } = require('megajs')
 
-const ownerNumber = ['94711451319','94716769285']
-const ownerNumber2 = ['94711451319']
+const ownerNumber = ['94711451319']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/session/creds.json')) {
@@ -80,7 +79,7 @@ let up = `🚀 *_NADEEN-MD Connected Successfully!_* ✅
 --- *💀🧨 _Welcome to NADEEN-MD!_* 🧨💀 
 
 *💥 PREFIX:* ${prefix}
-*💥 OWNER:* ${ownerNumber2}
+*💥 OWNER:* ${ownerNumber}
 *💥 MADE BY:* Nadeen Poorna
 *💥 MODE:* ${config.MODE}
 
@@ -94,7 +93,7 @@ let up = `🚀 *_NADEEN-MD Connected Successfully!_* ✅
 
 *👨‍💻ɴᴀᴅᴇᴇɴ-ᴍᴅ ᴍᴀᴅᴇ ʙʏ ɴᴀᴅᴇᴇɴ ᴘᴏᴏʀɴᴀ👨‍💻* `;
 
-conn.sendMessage(ownerNumber2 + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/7exz93.png` }, caption: up,
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/7exz93.png` }, caption: up,
   contextInfo: {
       mentionedJid: ['94711451319@s.whatsapp.net'], // specify mentioned JID(s) if any
       groupMentions: [],
