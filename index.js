@@ -19,7 +19,7 @@ const { sms,downloadMediaMessage } = require('./lib/msg')
 const axios = require('axios')
 const { File } = require('megajs')
 
-const ownerNumber = ['94711451319','94716769285','94779483535']
+const ownerNumber = ['94711451319','94716769285']
 const ownerNumber2 = ['94711451319']
 
 //===================SESSION-AUTH============================
